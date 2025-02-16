@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crustypanda846
 - 👀 I’m interested in bookmarkleta/js
-- 🌱 I’m currently learning how to code bookmarklets
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to code in python/bookmarklets(js) 
+- 📫 How to reach me: you can reach me at aarush.kumar.ghosh@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a crusty panda
